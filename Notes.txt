@@ -1,0 +1,2 @@
+* En caso no se puedan previsualizar los notebooks, estos deben ser descargados localmente para su modificacion
+* Se recomienda usar entornos con GPU de Google Colab, principalmente se utilizó el servidor A100
